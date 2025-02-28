@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="GO5_SupplierPreview.WPF.Views.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GO5_SupplierPreview.WPF.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <!-- Colonna 0-->
+            <ColumnDefinition Width="*" />
+            <!-- Colonna 1-->
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Vai a Fornitori" Command="{Binding OpenFornitoriCommand}" 
+                Grid.Column="0" Margin="10" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+    </Grid>
+</UserControl>

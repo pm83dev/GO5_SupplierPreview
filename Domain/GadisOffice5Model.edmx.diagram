@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c824767f1eeb4adba6ba78b173b0b4b0" Name="Diagram1">
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.AccountEmailGadis" Width="1.5" PointX="1.5" PointY="179.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.AliasAccountGadis" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.AreeGadis" Width="1.5" PointX="3.75" PointY="179.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Banche" Width="1.5" PointX="17" PointY="208.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Camere" Width="1.5" PointX="28.25" PointY="208.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Canali" Width="1.5" PointX="22.25" PointY="240.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CaratteristicheCamere" Width="1.5" PointX="17" PointY="174.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CaratteristicheCliente" Width="1.5" PointX="21.5" PointY="218.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CaratteristicheFornitore" Width="1.5" PointX="17" PointY="179.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CaratteristichePratica" Width="1.5" PointX="41.25" PointY="208.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CaratteristicheServizio" Width="1.5" PointX="51.75" PointY="187.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CaratteristicheStruttura" Width="1.5" PointX="17" PointY="162.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Cataloghi" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Categorie" Width="1.5" PointX="15.5" PointY="187" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CategorieMessaggi" Width="1.5" PointX="23.25" PointY="188.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CausaliAnnullamentoPratiche" Width="1.5" PointX="36.75" PointY="214.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CausaliLamentele" Width="1.5" PointX="39" PointY="203.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Clienti" Width="1.5" PointX="19.25" PointY="210.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ClientiAnno" Width="1.5" PointX="4.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ClientiAnnoSegmentiMarketing" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ClientiArchivioNote" Width="1.5" PointX="21.5" PointY="223.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ClientiCondizioniPagamento" Width="1.5" PointX="8.25" PointY="189.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ClientiTipiCamera" Width="1.5" PointX="24.5" PointY="217" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CollezioniImmagini" Width="1.5" PointX="8.25" PointY="197.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ComuniAnagrafe" Width="1.5" PointX="9.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ComuniCodiciPostali" Width="1.5" PointX="6.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CondizioniPagamento" Width="1.5" PointX="3" PointY="189.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.CondizioniPagamentoCliente" Width="1.5" PointX="5.25" PointY="200.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Contatti" Width="1.5" PointX="24.5" PointY="220.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ContattiCliente" Width="1.5" PointX="21.5" PointY="227.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ContattiFornitore" Width="1.5" PointX="17" PointY="213.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.DateAggiuntivePerSerie" Width="1.5" PointX="41.25" PointY="211.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Destinazioni" Width="1.5" PointX="6" PointY="183.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.DettagliFornitori" Width="1.5" PointX="20.75" PointY="187.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.DisponibilitaFornitore" Width="1.5" PointX="25.25" PointY="213.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Documenti" Width="1.5" PointX="12.25" PointY="196.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ElementiOfferta" Width="1.5" PointX="51.75" PointY="196.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ElementiOffertaTipiCamera" Width="1.5" PointX="60" PointY="206.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ElementiOrdine" Width="1.5" PointX="54.75" PointY="197.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ElementiOrdineTipiCamera" Width="1.5" PointX="60" PointY="210.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ElenchiCommercialiServizi" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Eventi" Width="1.5" PointX="0.75" PointY="183.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FattureClienti" Width="1.5" PointX="41.25" PointY="217.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FattureFornitori" Width="1.5" PointX="44.25" PointY="208.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FeedbackCliente" Width="1.5" PointX="22.5" PointY="209.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FeedbackClienteServizi" Width="1.5" PointX="27.75" PointY="211.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Fornitori" Width="1.5" PointX="14.75" PointY="190" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriAnnoTariffe" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriArchivioNote" Width="1.5" PointX="17" PointY="220.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriCondizioniPagamento" Width="1.5" PointX="8.25" PointY="184.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriDettagli" Width="1.5" PointX="23" PointY="199" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriGuideAccompagnatori" Width="1.5" PointX="17" PointY="226.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriLocaliPubblici" Width="1.5" PointX="17" PointY="228.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriTrasportatori" Width="1.5" PointX="17" PointY="231.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FornitoriValutazioni" Width="1.5" PointX="23" PointY="202.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Funzioni" Width="1.5" PointX="5.25" PointY="218.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.FunzioniGO" Width="1.5" PointX="7.5" PointY="218.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.GiornateOfferta" Width="1.5" PointX="43.5" PointY="239.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.GiornateOffertaPosiz" Width="1.5" PointX="45.75" PointY="239" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.GiornateOrdine" Width="1.5" PointX="41.25" PointY="224.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.GiornateOrdinePosiz" Width="1.5" PointX="43.5" PointY="224.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Gratuita" Width="1.5" PointX="7.5" PointY="201.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.GratuitaCondizioni" Width="1.5" PointX="9.75" PointY="203.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Gruppi" Width="1.5" PointX="0.75" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Immagini" Width="1.5" PointX="10.5" PointY="215.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Iva" Width="1.5" PointX="49.5" PointY="206.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.IvaStorica" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Lamentele" Width="1.5" PointX="41.25" PointY="201.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Lingue" Width="1.5" PointX="17" PointY="240.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.LivelliDestinazione" Width="1.5" PointX="3.75" PointY="195.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.LivelliUtente" Width="1.5" PointX="3" PointY="206" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Lock" Width="1.5" PointX="7.5" PointY="209.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Log" Width="1.5" PointX="7.5" PointY="211.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Manifestazioni" Width="1.5" PointX="22.25" PointY="250.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Messaggi" Width="1.5" PointX="25.5" PointY="204.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.MessaggiDestinatari" Width="1.5" PointX="28.75" PointY="204" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.MessaggiEliminati" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.MessaggiEliminatiDestinatari" Width="1.5" PointX="8" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.MezziPagamento" Width="1.5" PointX="0.75" PointY="196.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Moduli" Width="1.5" PointX="3" PointY="219" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Nazioni" Width="1.5" PointX="21.5" PointY="246" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Note" Width="1.5" PointX="44.25" PointY="203.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Offerte" Width="1.5" PointX="41.25" PointY="239.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OffertePubbliche" Width="1.5" PointX="57.75" PointY="198" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OfferteTotali" Width="1.5" PointX="43.5" PointY="242.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OfferteTotaliSezioni" Width="1.5" PointX="45.75" PointY="243.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Operatori" Width="1.5" PointX="5.25" PointY="205.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OperatoriAccountEmail" Width="1.5" PointX="10.5" PointY="209.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OperatoriFunzioni" Width="1.5" PointX="10.5" PointY="212.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Opportunita" Width="1.5" PointX="33.75" PointY="208.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OrdiniTotali" Width="1.5" PointX="41.25" PointY="246.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OrdiniTotaliSezioni" Width="1.5" PointX="48.75" PointY="233.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.OriginiClienti" Width="1.5" PointX="17" PointY="223.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PagamentiRicevuti" Width="1.5" PointX="13.5" PointY="211.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PagamentiRicevutiRighe" Width="1.5" PointX="27.5" PointY="215" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Parametri" Width="1.5" PointX="7.5" PointY="225.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Partecipanti" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Pratiche" Width="1.5" PointX="39" PointY="207.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PratichePagamentiCliente" Width="1.5" PointX="11.25" PointY="188.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PratichePagamentiFornitori" Width="1.5" PointX="11.25" PointY="180" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PraticheSistemazioni" Width="1.5" PointX="30.75" PointY="208.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PraticheSistemazioniTipiCamera" Width="1.5" PointX="36" PointY="211" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PraticheTag" Width="1.5" PointX="41.25" PointY="249.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ProprietaStili" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Province" Width="1.5" PointX="29" PointY="220.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.PuntiDestinazione" Width="1.5" PointX="8.25" PointY="256" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Regioni" Width="1.5" PointX="26.75" PointY="220.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.RichDisp" Width="1.5" PointX="31.75" PointY="204.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.RichForn" Width="1.5" PointX="28.75" PointY="198.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.RichFornServizi" Width="1.5" PointX="31" PointY="199.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.RiferimentiFornitore" Width="1.5" PointX="17" PointY="244.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_Aree" Width="1.5" PointX="2.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_AreeSegmentiMarketing" Width="1.5" PointX="11.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_AreeTipiServizio" Width="1.5" PointX="8.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_Clienti" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_ClientiSegmentiMarketing" Width="1.5" PointX="4.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_ClientiTipiServizio" Width="1.5" PointX="10.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_Destinazioni" Width="1.5" PointX="12.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_Fornitori" Width="1.5" PointX="13.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_FornitoriTipiServizio" Width="1.5" PointX="14.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_SegmentiMarketing" Width="1.5" PointX="14.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.S_TipiServizio" Width="1.5" PointX="15.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Scadenze" Width="1.5" PointX="20" PointY="196.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ScaglioniSezioneOfferta" Width="1.5" PointX="45.75" PointY="233.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ScaglioniSezioneOrdine" Width="1.5" PointX="48.75" PointY="247.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.SediGadis" Width="1.5" PointX="3" PointY="208.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.SegmentiMarketing" Width="1.5" PointX="47.25" PointY="207.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Servizi" Width="1.5" PointX="49.5" PointY="195" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Servizi_TEMP" Width="1.5" PointX="23" PointY="191.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Servizi2" Width="1.5" PointX="26" PointY="196.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.ServiziFornitoriAnno" Width="1.5" PointX="51.75" PointY="218" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.SezioniCatalogo" Width="1.5" PointX="6.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.SezioniOfferta" Width="1.5" PointX="43.5" PointY="217.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.SezioniOrdine" Width="1.5" PointX="46.5" PointY="220.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.StatiElementoOrdine" Width="1.5" PointX="52.5" PointY="221.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.StatiPratica" Width="1.5" PointX="36.75" PointY="217.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Stili" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Stringhe" Width="1.5" PointX="0.75" PointY="187.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.StringheLingue" Width="1.5" PointX="22.25" PointY="214.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TagPratiche" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TagPratichePratica" Width="1.5" PointX="14.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TasseSoggiorno" Width="1.5" PointX="17.5" PointY="191.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TasseSoggiornoRighe" Width="1.5" PointX="19.75" PointY="192.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiAttivita" Width="1.5" PointX="21.5" PointY="237.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiCamera" Width="1.5" PointX="3" PointY="213.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiDocumento" Width="1.5" PointX="10" PointY="174.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiDocumentoModelli" Width="1.5" PointX="19.25" PointY="240.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiFornitore" Width="1.5" PointX="17" PointY="263.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiScadenza" Width="1.5" PointX="17.75" PointY="188.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipiServizio" Width="1.5" PointX="17.75" PointY="197" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.TipoRichForn" Width="1.5" PointX="26.5" PointY="193.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.UsiDocumento" Width="1.5" PointX="46.5" PointY="212.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.UsiImmagine" Width="1.5" PointX="20" PointY="204.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.UsiStringa" Width="1.5" PointX="60.25" PointY="200.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Valute" Width="1.5" PointX="19.25" PointY="251.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.VariantiLogisticheServizio" Width="1.5" PointX="54.75" PointY="192.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.VariantiPrezziFornitoriAnnoTariffe" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.VariantiPrezziServizioFornitoreAnno" Width="1.5" PointX="57" PointY="202.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.VersioniSoftware" Width="1.5" PointX="16.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.AreeAnno" Width="1.5" PointX="8.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.AreeAnnoSegmentiMarketing" Width="1.5" PointX="16.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.DestinazioniImport" Width="1.5" PointX="0.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_attivita_relazioni" Width="1.5" PointX="17.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_attivita_segmenti" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Dizionario_Servizi_Fornitori_Passo2" Width="1.5" PointX="2.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Dizionario_Servizi_NoName_Passo2" Width="1.5" PointX="4.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_GO4_Fornitori_SchedePrezzi_Fornitori_Passo2" Width="1.5" PointX="18.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_GO4_Fornitori_SchedePrezzi_Passo2" Width="1.5" PointX="10.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_GO4_Fornitori_SchedePrezzi_VariantiPrezzi_DaInserire" Width="1.5" PointX="18.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_GO4_Fornitori_SchedePrezzi_VariantiPrezzi_Nuovi" Width="1.5" PointX="12.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_GO4_Fornitori_SchedePrezziLingue_Aggiornati_Dizionario_Base" Width="1.5" PointX="19.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_DocumentiCreati" Width="1.5" PointX="14.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_DocumentiRicevuti" Width="1.5" PointX="20.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_ElementiOfferta_DaAggiungere" Width="1.5" PointX="20.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_ElementiOrdini_DaAggiungere" Width="1.5" PointX="6.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_OfferteSezioni" Width="1.5" PointX="20.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_Servizi_Connessione" Width="1.5" PointX="20.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="GadisOfficeBaseVuota1705_ProdModel.Z_Sincro_Pratiche_Servizi_Dettaglio" Width="1.5" PointX="20.75" PointY="17.75" IsExpanded="true" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_AccountMailOperatori_AccountMail" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_AreeGadis_AccountEmailGadis" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Operatori_AccountMailEst" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Operatori_AccountMailInt" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_AreeGadis" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OffertePubbliche_AreeGadis" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Operatori_AreeGadis" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Opportunita_AreeGadis" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_AreeGadis" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Banche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PagamentiRicevuti_Banche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PagamentiRicevutiRighe_Banche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Camere_FornitoriValutazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Camere_TipiCamera" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Contatti_Canali" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CaratteristicheCamere_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CaratteristicheCliente_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CaratteristicheFornitore_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CaratteristichePratica_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CaratteristicheServizio_Servizio" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CaratteristicheStruttura_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TipiServizio_Categorie" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Messaggi_CategorieMessaggi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_CausaliAnnullamentoPratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_CausaliLamentele" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Clienti1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Clienti2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Lingue" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Nazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_OriginiClienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Clienti_Province" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ClientiArchivioNote_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ClientiTipiCamera_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniPagamentoCliente_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Contatti_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ContattiCliente_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Clienti1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FattureClienti_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_MessaggiDestinatari_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Messaggio_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Note_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PagamentiRicevutiRighe_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Clienti1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Clienti2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamenti_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiDocumento_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_Clienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ClientiCondizioniPagamento_Eventi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ClientiCondizioniPagamento_MezziPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniPagamentoCliente_TipiPagamenti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ClientiTipiCamera_TipiCamera" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CollezioniImmagini_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CollezioniImmagini_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CollezioniImmagini_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Immagini_CollezioniImmagini" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniFornitore_CondizioniPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniPagamento_Eventi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniPagamento_MezziPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniPagamento_Stringhe" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniPagamentoCliente_TipiPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamenti_CondizioniPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiFornitori_CondizioniPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Contatti_Manifestazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Contatti_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Opportunita_Contatti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_ContattiCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_ContattiCliente1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_ContattiCliente2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RiferimentoFornitore_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DateAggiuntivePerSerie_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazione_CodDestinazioneStatistica" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_Livelli" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_Nazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_Province" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_Regioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_Stringhe" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_TasseSoggiorno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_ToTraduzioni_1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_ToTraduzioni_2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Destinazioni_ToTraduzioni_3" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitore_Destinazione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Note_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Opportunita_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratica_Destinazione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PuntiDestinazione_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Regioni_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio_Destinazione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio_Destinazione_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio2_Destinazione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiDocumento_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiImmagine_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_Destinazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriDettagli_DettagliFornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DisponibilitaFornitore_FornitoriValutazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Fornitori1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Offerte" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Documenti_TipiDocumento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FeedbackCliente_Documenti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiFornitori_Documenti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_Fornitori1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_Iva" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_Iva1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_SezioniOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOfferta_VariantiPrezziServizioFornitoreAnno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOffertaTipiCamera_ElementiOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GiornateOffertaPosiz_ElementiOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_ElementiOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiImmagine_ElementiOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOffertaTipiCamera_TipiCamera" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_Fornitori1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_Iva" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_Iva1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_SezioniOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_StatiElementoOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdine_VariantiPrezziServizioFornitoreAnno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdineTipiCamera_ElementiOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FeedbackClienteServizi_ElementiOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GiornateOrdinePosiz_ElementiOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_ElementiOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiImmagine_ElementiOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiOrdineTipiCamera_TipiCamera" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriCondizioniPagamento_Eventi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiCliente_Eventi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiFornitori_Eventi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FattureClienti_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FatturaFornitore_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FattureFornitori_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FeedbackCliente_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FeedbackClienteServizi_FeedbackCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_CondizioniFornitore_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitore_aggregazione_fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Fatturazione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Intermediari" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_OperatoreCreazione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_OperatoreUltimaModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Traduzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Traduzioni1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Fornitori_Valute" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriArchivioNote_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriDettagli_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriValutazioni_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GuidaAccompagnatore_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_LocalePubblico_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_MessaggiDestinatari_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Messaggio_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiFornitori_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichDispFornitore_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RiferimentiFornitore_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizi_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizi_Fornitori_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizi2_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio_Fornitore_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio2_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Trasportatore_Fornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiDocumento_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiImmagine_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_Fornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriCondizioniPagamento_MezziPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FornitoriValutazioni_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ControlliForm_Funzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Funzioni_Moduli" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FunzioniOperatori_Funzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Log_Funzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GiornateOfferta_Offerte" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GiornateOffertaPosiz_GiornateOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GiornateOrdine_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GiornateOrdinePosiz_GiornateOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Gratuita_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_GratuitaCondizioni_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratica_Gratuità" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SezioniOfferta_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SezioniOrdine_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TipiServizio_Gratuita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Partecipanti_Gruppi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsoImmagine_Immagine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiPrezziServizioFornitoreAnno_Iva" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiPrezziServizioFornitoreAnno_Iva1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Operatori1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lamentele_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_Lamentele" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiTraduzioni_Lingue" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Nazione_Lingue" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TipiDocumentoModelli_Lingue" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Valuta_Lingue" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Operatori_LivelliUtente" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Lock_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Log_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Messaggi_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_MessaggiDestinatari_Messaggi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Messaggio_Operatore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PraticheSistemazioni_Messaggi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichDisp_Messaggi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichDispFornitori_Messaggi1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichForn_Messaggi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_MessaggiEliminatiDestinatari_MessaggiEliminati" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiCliente_MezziPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiFornitori_MezziPagamento" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Nazione_Valute" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Regioni_Nazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Note_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Note_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Offerte_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OfferteTotali_Offerte" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SezioniOfferta_Offerte" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SezioniOrdine_Offerte" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiDocumento_Offerte" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OffertePubbliche_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OfferteTotaliSezioni_OfferteTotali" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OfferteTotaliSezioni_SezioniOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_AccountMailOperatori_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_FunzioniOperatori_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Operatori_Sedi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Opportunita_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PagamentiRicevuti_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Parametri_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratica_Operatore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Operatori1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizi_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizi2_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TasseSoggiorno_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TipiServizio_Operatori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Opportunita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_Opportunita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OrdiniTotali_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OrdiniTotaliSezioni_OrdiniTotali" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_OrdiniTotaliSezioni_SezioniOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PagamentiRicevutiRighe_PagamentiRicevuti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamenti_PagamentiRicevutiRighe" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PraticaSistemazioni_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_StatiPratica" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_StatiPratica1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Pratiche_Valute" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamenti_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PratichePagamentiFornitori_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PraticheTag_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichDisp_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichDispFornitore_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SezioniOrdine_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiDocumento_Pratiche" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_PratichePagamentiCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_PratichePagamentiFornitori" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PraticaSistemazioniTipoCamera_PraticaSistemazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PraticheSistemazioni_StatiPratica" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_PraticaSistemazioniTipoCamera_TipiCamera" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ProprietaStili_Stili" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Province_Regioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichForn_TipoRichForn" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_RichFornServizi_RichForn" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Scadenze_TipiScadenza" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ScaglioniSezioneOfferta_SezioniOfferta" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ScaglioniSezioneOrdine_SezioniOrdine" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SediGadis_Stringhe" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_SediGadis_Stringhe1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DescizioneBreve_Traduzione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DescizioneEstesa_Traduzione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_NoteVoucherCliente_Traduzione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_NoteVoucherFornitore_Traduzione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ServiziFornitoriAnno_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio_TipoServizio" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiDocumento_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiImmagine_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiLogisticheServizio_Servizi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DescizioneBreve_Traduzione_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DescizioneEstesa_Traduzione_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_NoteVoucherCliente_Traduzione_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_NoteVoucherFornitore_Traduzione_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio_TipoServizio_TEMP" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DescizioneBreve_Traduzione2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_DescizioneEstesa_Traduzione2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_NoteVoucherCliente_Traduzione2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_NoteVoucherFornitore_Traduzione2" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Servizio2_TipoServizio" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiPrezziServizioFornitoreAnno_ServiziFornitoriAnno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Descrizione_Traduzione" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_ElementiTraduzioni_Traduzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TasseSoggiorno_Stringhe" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TasseSoggiorno_Stringhe1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TipiCamera_Traduzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_Traduzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiLogisticheServizio_Stringhe" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiLogisticheServizio_Stringhe1" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiPrezziServizioFornitoreAnno_NoteClienti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_VariantiPrezziServizioFornitoreAnno_NoteFornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_Voucher_Traduzioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TasseSoggiornoRighe_TasseSoggiorno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_TasseSoggiorno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_TipiDocumentoModelli_TipiDocumentoModelli" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FK_UsiStringa_VariantePrezzoServizioFornitoreAnno" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.ClientiSegmentiMarketing" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.ClientiTipiAttivita" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.DestinazioniRelazioni" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.DocumentiMessaggi" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FornitoriLingue" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FornitoriSegmentiMarketing" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.FornitoriTipiFornitore" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.OpportunitaSegmentiMarketing" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.PraticheSegmentiMarketing" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.RelazioniTipiServizio" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.ServiziRaggruppamenti" ManuallyRouted="false" />
+        <AssociationConnector Association="GadisOfficeBaseVuota1705_ProdModel.ServiziSegmentiMarketing" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
